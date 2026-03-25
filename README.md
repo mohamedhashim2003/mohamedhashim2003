@@ -15,7 +15,7 @@
 
 ## About
 
-Final-year Mechatronics and Industrial Automation Engineering student specializing in Industry 4.0 technologies. My work spans digital twins, predictive maintenance systems, additive manufacturing control, and embedded robotics. I build systems that sit at the intersection of physical hardware and intelligent software.
+Final-year Mechatronics & Industrial Automation Engineering undergraduate specializing in Industry 4.0. My projects focus on building digital twins, AI-driven predictive maintenance systems, advanced control for manufacturing, and intelligent robotic systems. I design integrated cyber-physical systems that merge hardware and smart software to create tangible operational and financial value
 
 
 ---
