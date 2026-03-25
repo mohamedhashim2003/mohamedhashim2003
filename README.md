@@ -125,34 +125,18 @@ engineer = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedhashim2003&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhashim2003&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohamedhashim2003&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohamedhashim2003&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution
 
 > **Setup required:** Add the GitHub Action below to generate your snake animation.
 
