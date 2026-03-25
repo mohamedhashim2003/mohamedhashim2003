@@ -101,6 +101,4 @@ Final-year Mechatronics & Industrial Automation Engineering undergraduate specia
 
 <div align="center">
 
-*Mechatronics · Digital Twins · Additive Manufacturing · Embedded Systems*
-
 </div>
