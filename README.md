@@ -6,8 +6,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-hashim2003)
-[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Mohamed.Khaled.Hashim@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:your-email@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedhashim2003)
 [![Profile Views](https://komarev.com/ghpvc/?username=mohamedhashim2003&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/mohamedhashim2003)
 
@@ -24,100 +24,153 @@ engineer = {
     "degree"     : "Mechatronics & Industrial Automation Engineering",
     "graduation" : 2026,
     "focus"      : ["Digital Twins", "Predictive Maintenance",
-                    "Additive Manufacturing", "Industrial Automation", "Robotics"],
-    "currently"  : "Working on WAAM graduation project",
+                    "Additive Manufacturing", "Embedded Systems"],
+    "currently"  : "Publishing WAAM graduation research + Digital Twin paper",
+    "fun_fact"   : "I also build strategy war games in Python 🎮"
 }
-````
+```
 
------
+---
 
 ## 🚀 Featured Projects
 
-\<table\>
-\<tr\>
-\<td width="50%" valign="top"\>
-\<h3\>🔬 Predictive Maintenance Digital Twin\</h3\>
-\<p\>Digital twin for the \<strong\>Rieter K48 spinning machine\</strong\>. Combines historical sensor data with AI-based failure scenario modeling to predict maintenance windows before breakdowns occur.\</p\>
-\<p\>
-\<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square\&logo=python\&logoColor=blue"/\>
-\<img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white"/\>
-\<img src="https://img.shields.io/badge/Industry\_4.0-0078D4?style=flat-square"/\>
-\</p\>
-\<a href="https://github.com/mohamedhashim2003/Predictive-Maintenance-Digital-Twin"\>
-\<img src="https://img.shields.io/badge/View\_Repo-181717?style=flat-square\&logo=github\&logoColor=white"/\>
-\</a\>
-\</td\>
-\<td width="50%" valign="top"\>
-\<h3\>🏗️ WAAM Control Suite\</h3\>
-\<p\>Python-based control system, G-code slicer, and digital twin for \<strong\>Wire Arc Additive Manufacturing\</strong\>. Covers toolpath generation, deposition parameters, and real-time process monitoring.\</p\>
-\<p\>
-\<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square\&logo=python\&logoColor=blue"/\>
-\<img src="https://img.shields.io/badge/WAAM-E34F26?style=flat-square"/\>
-\<img src="https://img.shields.io/badge/Digital\_Twin-1477D1?style=flat-square"/\>
-\</p\>
-\<a href="https://github.com/mohamedhashim2003/WAAM-Control-Suite"\>
-\<img src="https://img.shields.io/badge/View\_Repo-181717?style=flat-square\&logo=github\&logoColor=white"/\>
-\</a\>
-\</td\>
-\</tr\>
-\<tr\>
-\<td width="50%" valign="top"\>
-\<h3\>🦾 Sorting Robotic Arm\</h3\>
-\<p\>Mechatronic sorting system with precise inverse kinematics, real-time sensor feedback, and automated decision logic. Full kinematic model in MATLAB.\</p\>
-\<p\>
-\<img src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square\&logo=mathworks\&logoColor=white"/\>
-\<img src="https://img.shields.io/badge/Robotics-27338e?style=flat-square"/\>
-\<img src="https://img.shields.io/badge/Kinematics-4B275F?style=flat-square"/\>
-\</p\>
-\<a href="https://github.com/mohamedhashim2003/Sorting-Robotic-Arm"\>
-\<img src="https://img.shields.io/badge/View\_Repo-181717?style=flat-square\&logo=github\&logoColor=white"/\>
-\</a\>
-\</td\>
-\<td width="50%" valign="top"\>
-\<h3\>🤖 IR Collision Avoidance Vehicle\</h3\>
-\<p\>Arduino UNO-controlled robotic vehicle with IR obstacle detection. Autonomous motion control with real-time collision response in C++.\</p\>
-\<p\>
-\<img src="https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white"/\>
-\<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square\&logo=arduino\&logoColor=white"/\>
-\<img src="https://img.shields.io/badge/Embedded-E7352C?style=flat-square\&logo=espressif\&logoColor=white"/\>
-\</p\>
-\<a href="https://github.com/mohamedhashim2003/Robotic-Vehicle-with-IR-Collision-Avoidance"\>
-\<img src="https://img.shields.io/badge/View\_Repo-181717?style=flat-square\&logo=github\&logoColor=white"/\>
-\</a\>
-\</td\>
-\</tr\>
-\</table\>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 Predictive Maintenance Digital Twin</h3>
+      <p>Digital twin for the <strong>Rieter K48 spinning machine</strong>. Combines historical sensor data with AI-based failure scenario modeling to predict maintenance windows before breakdowns occur.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
+        <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Industry_4.0-0078D4?style=flat-square"/>
+      </p>
+      <a href="https://github.com/mohamedhashim2003/Predictive-Maintenance-Digital-Twin">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗️ WAAM Control Suite</h3>
+      <p>Python-based control system, G-code slicer, and digital twin for <strong>Wire Arc Additive Manufacturing</strong>. Covers toolpath generation, deposition parameters, and real-time process monitoring.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
+        <img src="https://img.shields.io/badge/WAAM-E34F26?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Digital_Twin-1477D1?style=flat-square"/>
+      </p>
+      <a href="https://github.com/mohamedhashim2003/WAAM-Control-Suite">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🦾 Sorting Robotic Arm</h3>
+      <p>Mechatronic sorting system with precise inverse kinematics, real-time sensor feedback, and automated decision logic. Full kinematic model in MATLAB.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Robotics-27338e?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Kinematics-4B275F?style=flat-square"/>
+      </p>
+      <a href="https://github.com/mohamedhashim2003/Sorting-Robotic-Arm">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 IR Collision Avoidance Vehicle</h3>
+      <p>Arduino UNO-controlled robotic vehicle with IR obstacle detection. Autonomous motion control with real-time collision response in C++.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Embedded-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+      </p>
+      <a href="https://github.com/mohamedhashim2003/Robotic-Vehicle-with-IR-Collision-Avoidance">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
------
+---
 
 ## 🛠️ Tech Stack
 
 **Languages**
 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 **AI / ML / Data**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 **Hardware & Embedded**
 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
 **CAD & Design**
+
+![SolidWorks](https://img.shields.io/badge/SolidWorks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white)
 
 **Tools & IDEs**
 
------
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedhashim2003&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhashim2003&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohamedhashim2003&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 
-\<div align="center"\>
+<div align="center">
 
-[](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohamedhashim2003&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-\</div\>
+</div>
 
------
+---
 
-\<div align="center"\>
+## 🐍 Contribution Snake
 
-\<img src="https://capsule-render.vercel.app/api?type=waving\&color=0:16213e,50:1a1a2e,100:0d1117\&height=120\&section=footer" width="100%"/\>
+> **Setup required:** Add the GitHub Action below to generate your snake animation.
 
-\</div\>
+<div align="center">
 
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedhashim2003/mohamedhashim2003/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedhashim2003/mohamedhashim2003/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohamedhashim2003/mohamedhashim2003/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+
+</div>
