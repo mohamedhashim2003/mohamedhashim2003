@@ -101,6 +101,6 @@ Final-year Mechatronics and Industrial Automation Engineering student specializi
 
 <div align="center">
 
-*Mechatronics · Digital Twins · Additive Manufacturing · Embedded Systems*
+*Mechatronics · Digital Twins · Additive Manufacturing · Industrial Automation . Robotics*
 
 </div>
