@@ -29,10 +29,10 @@ Final-year Mechatronics & Industrial Automation Engineering undergraduate specia
 
 ---
 
-### [WAAM-Control-Suite](https://github.com/mohamedhashim2003/WAAM-Control-Suite)
-> Full Python-based control system, G-code slicer, and digital twin for Wire Arc Additive Manufacturing. Handles toolpath generation, deposition parameter control, and real-time process monitoring in a unified pipeline.
+### [Drive By Wire Throttle Control System](https://github.com/mohamedhashim2003/Drive-by-Wire-Control-System))
+> This system utilizes an **Arduino Uno** as the Electronic Control Unit (ECU) to process driver intent and actuate a 3D-printed throttle valve.
 
-`Python` `Additive Manufacturing` `Digital Twin` `Control Systems`
+`Python` `Automotive Mechatronics` `Arduino` `PID`
 
 ---
 
@@ -61,6 +61,13 @@ Final-year Mechatronics & Industrial Automation Engineering undergraduate specia
 > C++ implementation of a menu-driven billing system. Handles item entry, bill computation, and report generation.
 
 `C++` `Systems Programming`
+
+---
+
+### [Earth Day 2026](https://github.com/mohamedhashim2003/Earth-Day-2026)
+> Winner of Galala University Earth Day Ideas Competition 2026.An interactive web platform designed to raise community awareness about energy conservation.
+
+`HTML` `CSS` `JavaScript`
 
 ---
 
