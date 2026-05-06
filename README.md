@@ -29,7 +29,7 @@ Final-year Mechatronics & Industrial Automation Engineering undergraduate specia
 
 ---
 
-### [Drive By Wire Throttle Control System](https://github.com/mohamedhashim2003/Drive-by-Wire-Control-System))
+### [Drive By Wire Throttle Control System](https://github.com/mohamedhashim2003/Drive-by-Wire-Control-System)
 > This system utilizes an **Arduino Uno** as the Electronic Control Unit (ECU) to process driver intent and actuate a 3D-printed throttle valve.
 
 `Python` `Automotive Mechatronics` `Arduino` `PID`
